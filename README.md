@@ -1,8 +1,14 @@
 # financeapp
 
 A new Flutter project.
+## Screenshot
+
+![Splash Screen](assets/screenshots/splashscreen.png)
+![Home Screen](assets/screenshots/utama.png)
+![Inspect Screen](assets/screenshots/inspect.png)
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
